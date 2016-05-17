@@ -1,4 +1,4 @@
 # hello-world
-Weiya's Ultimate Treasure Depot, pirate keep out! 
+Weiya's Ultimate Treasure Depot, keep out! 
 
 I love to write code, yeah!!! 
